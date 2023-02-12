@@ -1,3 +1,6 @@
+#For debugging download: https://thonny.org/
+
+
 1) Indentation is key - else syntax errors
 
 2) Use single quotes in print statement if you want to print the double quotes.
@@ -6,4 +9,5 @@
 3) String concatenation is using '+' symbol
    e.g. print("Hello" + "World")
    
-4) 
+4) Input function
+   print("Hello" + input("what's your name?") + "!")
