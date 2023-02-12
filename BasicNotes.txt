@@ -11,3 +11,7 @@
    
 4) Input function
    print("Hello" + input("what's your name?") + "!")
+   
+5) Commenting - Use #
+
+7) Ctrl + /  shortcut to comment
