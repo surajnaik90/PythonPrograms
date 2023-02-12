@@ -1,0 +1,7 @@
+Indentation is the key. Else syntax errors.
+
+Use single quotes inside print if you want to print double quotes.
+
+Ctrl + / is the shortcut to put comments in the Windows python editors.
+
+1length, 2lengths are invalid variable names
