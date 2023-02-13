@@ -15,3 +15,9 @@ Division happens in float. Even though integers used in mathematical operations,
 Numbers manipulation is optimized and hence is loved by data scientists.
 
 ** for exponents. e.g:  2 ** 3 = 8
+
+// for floor division. e.g: 8 // 3 = 2 instead of 2.666666
+
+round() - to round off the numbers to either high or low.
+e.g:  round(2.6666666, 2) = 2.67 => Rounds of the number to 2 precision points.
+
