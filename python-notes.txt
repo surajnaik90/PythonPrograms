@@ -7,3 +7,7 @@ Ctrl + / is the shortcut to put comments in the Windows python editors.
 1length, 2lengths are invalid variable names
 
 123_345 is an integer. It's readable isn't it? Cool
+
+type conversions:    int("23"), float(13) etc
+
+Division happens in float. Even though integers used in mathematical operations, float has highest precedence here in any math operation.
