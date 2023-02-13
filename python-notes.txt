@@ -21,3 +21,6 @@ Numbers manipulation is optimized and hence is loved by data scientists.
 round() - to round off the numbers to either high or low.
 e.g:  round(2.6666666, 2) = 2.67 => Rounds of the number to 2 precision points.
 
+#F-Strings
+weight = 80
+print(f"Your weight is {weight}")
