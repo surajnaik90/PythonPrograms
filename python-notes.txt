@@ -11,3 +11,5 @@ Ctrl + / is the shortcut to put comments in the Windows python editors.
 type conversions:    int("23"), float(13) etc
 
 Division happens in float. Even though integers used in mathematical operations, float has highest precedence here in any math operation.
+
+Numbers manipulation is optimized and hence is loved by data scientists.
