@@ -5,3 +5,22 @@ Use single quotes inside print if you want to print double quotes.
 Ctrl + / is the shortcut to put comments in the Windows python editors.
 
 1length, 2lengths are invalid variable names
+
+123_345 is an integer. It's readable isn't it? Cool
+
+type conversions:    int("23"), float(13) etc
+
+Division happens in float. Even though integers used in mathematical operations, float has highest precedence here in any math operation.
+
+Numbers manipulation is optimized and hence is loved by data scientists.
+
+** for exponents. e.g:  2 ** 3 = 8
+
+// for floor division. e.g: 8 // 3 = 2 instead of 2.666666
+
+round() - to round off the numbers to either high or low.
+e.g:  round(2.6666666, 2) = 2.67 => Rounds of the number to 2 precision points.
+
+#F-Strings
+weight = 80
+print(f"Your weight is {weight}")
