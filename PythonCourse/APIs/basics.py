@@ -14,3 +14,17 @@ print(response.status_code)
 data = response.json()
 print(data)
 
+location = data["iss_position"]
+print(location)
+
+longitude = location["longitude"]
+print(longitude)
+
+latitude = location["latitude"]
+print(latitude)
+
+#Create a tuple
+iss_position = (latitude,longitude)
+print(iss_position)
+
+#Check the position in here: https://www.latlong.net/
