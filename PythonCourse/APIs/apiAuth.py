@@ -1,4 +1,4 @@
-# Use this site: https://openweathermap.org/ 
+# Use this site: https://openweathermap.org/
 
 import requests
 
