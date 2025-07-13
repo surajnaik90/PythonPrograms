@@ -16,3 +16,22 @@ print('Using parametes {input1} and {input2} in a string'.format(input1=variable
 boolean_response_true = 1 < 2
 boolean_response_false = 3 > 5
 print(boolean_response_true, boolean_response_false)
+
+#Using dictionaries
+dictionary_example = {
+    'what': 'learning python',
+    'how': 'using vscode',
+}
+print(dictionary_example['what'])
+
+#Using Lists
+list_example = [1, 'item2', 2.5, True]
+print(list_example)
+
+#Using tuples
+tuple_example = (1, 'item2', [1,2,3], False)
+print(tuple_example)
+
+#Using sets
+set_example = {1, 1, 2, 2, 2, 2, 3, 4, 5}
+print(set_example)
